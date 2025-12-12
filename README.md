@@ -19,6 +19,5 @@ When I code, I rely on:
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats-godmode.vercel.app/api?username=ashwani-sharma-14&theme=tokyonight&hide_border=true&border_radius=20&show_icons=true&rank_icon=github" width="48%" />
-  <img src="https://github-readme-stats-godmode.vercel.app/api/top-langs/?username=ashwani-sharma-14&layout=compact&theme=tokyonight&hide_border=true&border_radius=20" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=ashwani-sharma-14&theme=neon-dark&hide_border=true&border_radius=20" width="80%" />
 </p>
