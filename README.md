@@ -19,5 +19,15 @@ When I code, I rely on:
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://metrics.lecoq.io/ashwani-sharma-14?template=classic&config.timezone=Asia%2FKolkata&base.indepth=true&base.hireable=true&introduction=true&base=header&isocalendar=1&languages=1&activity=1&followup=1&repositories=1&achievements=1&contributions=1" width="90%" />
+  <img src="https://metrics.lecoq.io/ashwani-sharma-14
+      ?template=classic
+      &base=header
+      &base.indepth=true
+      &config.timezone=Asia%2FKolkata
+      &languages=1
+      &repositories=1
+      &followup=1
+      &lines=1
+      &isocalendar=1" 
+       width="90%" />
 </p>
