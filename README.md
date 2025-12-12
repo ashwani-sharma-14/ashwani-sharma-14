@@ -19,5 +19,7 @@ When I code, I rely on:
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ashwani-sharma-14&theme=neon-dark&hide_border=true&border_radius=20" width="80%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ashwani-sharma-14&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwani-sharma-14&layout=compact&theme=tokyonight" width="48%" />
 </p>
+
