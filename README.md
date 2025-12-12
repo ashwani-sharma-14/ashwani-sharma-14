@@ -19,6 +19,5 @@ When I code, I rely on:
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashwani-sharma-14&show_icons=true&theme=radical" alt="Ashwani's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwani-sharma-14&layout=compact&theme=radical" alt="Ashwani's Top Languages" width="48%" />
+  <img src="https://metrics.lecoq.io/ashwani-sharma-14?template=classic&config.timezone=Asia%2FKolkata&base.indepth=true&base.hireable=true&introduction=true&base=header&isocalendar=1&languages=1&activity=1&followup=1&repositories=1&achievements=1&contributions=1" width="90%" />
 </p>
