@@ -19,6 +19,7 @@ When I code, I rely on:
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashwani-sharma-14&show_icons=true&theme=tokyonight&cache_buster=1" width="48%" alt="Ashwani's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwani-sharma-14&layout=compact&theme=tokyonight&cache_buster=1" width="48%" alt="Ashwani's Top Languages" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ashwani-sharma-14&theme=tokyonight" alt="GitHub Trophies" />
+  </a>
 </p>
