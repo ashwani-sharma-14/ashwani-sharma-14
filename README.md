@@ -19,6 +19,6 @@ When I code, I rely on:
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=ashwani-sharma-14&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=ashwani-sharma-14&show_icons=true&theme=tokyonight&include_all_commits=true" width="48%" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ashwani-sharma-14&layout=compact&theme=tokyonight" width="48%" />
 </p>
